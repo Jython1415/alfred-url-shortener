@@ -163,7 +163,11 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string># &lt;img src="Workflow/icon.png" width="45" align="center" alt="icon"&gt; Alfred URL Shortener
+ 
+- Alfred Workflow for shortening a URL
+- For personal use
+- Feel free to download and modify</string>
 	<key>uidata</key>
 	<dict>
 		<key>31029510-D652-427A-85D4-7AA5ADD23605</key>
